@@ -1,0 +1,54 @@
+body {
+  padding: 20px;
+  background-color: #DDDDDD;
+  font-family: 'Roboto', sans-serif;
+}
+
+.app-title{
+  text-align:center;
+  color: #0550a6;
+}
+
+h2{
+  color:#05a6a6;
+}
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  align-self: center;
+}
+.container {
+  padding: 3px 10px;
+  text-align:center;
+
+}
+.input-text {
+  align-self: start;
+  font-size: 7mm;
+  padding-left: 10px;
+  left :10px;
+}
+
+.add-btn{
+  font: outline;
+  font-size: 6mm;
+  right :0px;
+  padding-left: 0px;
+}
+
+.list
+{
+  padding-left: 120mm;
+  padding-right: 120mm;
+  font-size: 5mm;
+}
+
+.text{
+  text-align: left;
+  font-size: 6mm;
+}
+.btn{
+  font-size: 4mm;
+  float: right;
+}

@@ -1,0 +1,34 @@
+{
+    "images": [
+      {
+        "id": "1",
+        "name": "Image1",        
+        "url":"https://wallpaperaccess.com/full/472038.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Image2",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQodNbmZbm5bmw2Tzn9g0efZoI1FhW4JNrCUw&usqp=CAU"
+      },
+      {
+        "id": "3",
+        "name": "Image3",
+        "url": "https://wallpaperplay.com/walls/full/2/d/b/10472.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Image4",
+        "url": "https://wallpaperplay.com/walls/full/c/8/6/113546.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Image5",
+        "url": "https://wallpaperplay.com/walls/full/b/2/a/113571.jpg"
+      },
+      {
+        "id": "6",
+        "name": "Image6",
+        "url": "https://miro.medium.com/max/2628/1*8wU0hfUY3UK_D8Y7tbIyFQ.png"
+      }
+    ]
+  }
