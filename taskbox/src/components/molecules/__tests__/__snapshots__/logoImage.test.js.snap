@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Logo component Matches the snapshot 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container"
+>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <img
+      alt="Logo"
+      className="makeStyles-logo-1"
+      data-testid="logoImage"
+      src="/static/images/logo.png"
+    />
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item"
+  >
+    <p
+      className="MuiTypography-root makeStyles-title-2 MuiTypography-body1"
+      data-testid="imageTitle"
+    >
+      Todo
+    </p>
+  </div>
+</div>
+`;

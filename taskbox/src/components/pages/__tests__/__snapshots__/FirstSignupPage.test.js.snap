@@ -1,0 +1,150 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login component Matches the snapshot 1`] = `
+<main
+  className="MuiGrid-root makeStyles-pageGrid-1 MuiGrid-container"
+>
+  <div
+    className="MuiGrid-root makeStyles-backgroundimage-2 MuiGrid-item MuiGrid-grid-sm-12 MuiGrid-grid-md-12"
+    data-testid="bgImage"
+  >
+    <div
+      className="MuiGrid-root makeStyles-gridContainer-5 MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-center"
+    >
+      <div
+        className="makeStyles-taglineStyle-6"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-item"
+        >
+          <h1
+            className="MuiTypography-root makeStyles-remember-8 MuiTypography-h1"
+            data-testid="taglineText"
+          >
+            Remember everything that matters
+          </h1>
+        </div>
+      </div>
+      <div
+        className="MuiPaper-root MuiGrid-root makeStyles-formBox-7 MuiGrid-item MuiGrid-grid-sm-4 MuiGrid-grid-md-3 MuiPaper-elevation6 MuiPaper-rounded"
+        mt={251}
+        pb={249}
+        pr={178}
+      >
+        <div
+          className="MuiGrid-root MuiGrid-container"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <img
+              alt="Logo"
+              className="makeStyles-logo-9"
+              data-testid="logoImage"
+              src="/static/images/logo.png"
+            />
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <p
+              className="MuiTypography-root makeStyles-title-10 MuiTypography-body1"
+              data-testid="imageTitle"
+            >
+              Todo
+            </p>
+          </div>
+        </div>
+        <h5
+          className="MuiTypography-root makeStyles-heading-3 MuiTypography-h5"
+        >
+          Sign up
+        </h5>
+        <div
+          className="makeStyles-paper-4"
+        >
+          <form
+            className="makeStyles-form-11"
+          >
+            <div
+              className="MuiFormControl-root makeStyles-textField-16 MuiFormControl-fullWidth"
+            >
+              <p
+                className="MuiTypography-root makeStyles-label-15 MuiTypography-body1"
+                data-testid="emailLabel"
+              >
+                Email
+              </p>
+              <div
+                className="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+              >
+                <div
+                  className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl"
+                  onClick={[Function]}
+                >
+                  <input
+                    aria-invalid={false}
+                    autoFocus={false}
+                    className="MuiInputBase-input MuiInput-input"
+                    data-testid="email"
+                    disabled={false}
+                    onAnimationStart={[Function]}
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    placeholder="Enter email"
+                    required={true}
+                    type="text"
+                    value=""
+                  />
+                </div>
+              </div>
+            </div>
+            <div>
+              <button
+                className="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-signupbutton-12 MuiButton-containedPrimary MuiButton-fullWidth"
+                disabled={false}
+                onBlur={[Function]}
+                onClick={[Function]}
+                onDragLeave={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="MuiButton-label"
+                >
+                  Sign up with email
+                </span>
+              </button>
+            </div>
+            <hr
+              className="makeStyles-horizontalLine-14"
+            />
+            <p
+              className="MuiTypography-root makeStyles-loginLink-13 MuiTypography-body1"
+            >
+              Already signed up?
+              <a
+                data-testid="loginLink"
+                href="/login"
+                onClick={[Function]}
+              >
+                Go to login
+              </a>
+            </p>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+`;

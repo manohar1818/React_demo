@@ -1,0 +1,329 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login component Matches the snapshot 1`] = `
+<main
+  className="MuiGrid-root makeStyles-pageGrid-1 MuiGrid-container"
+>
+  <div
+    className="MuiGrid-root makeStyles-backgroundimage-2 MuiGrid-item MuiGrid-grid-sm-12 MuiGrid-grid-md-12"
+    data-testid="bgImage"
+  >
+    <div
+      className="MuiGrid-root makeStyles-gridContainer-5 MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-center"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item"
+      >
+        <h1
+          className="MuiTypography-root makeStyles-remember-8 MuiTypography-h1"
+          data-testid="taglineText"
+        >
+          Remember everything that matters
+        </h1>
+      </div>
+      <div
+        className="MuiPaper-root MuiGrid-root makeStyles-formBox-6 MuiGrid-item MuiGrid-grid-sm-4 MuiGrid-grid-md-3 MuiPaper-elevation6 MuiPaper-rounded"
+        mt={251}
+        pb={249}
+        pr={178}
+      >
+        <div
+          className="MuiGrid-root MuiGrid-container"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <img
+              alt="Logo"
+              className="makeStyles-logo-9"
+              data-testid="logoImage"
+              src="/static/images/logo.png"
+            />
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item"
+          >
+            <p
+              className="MuiTypography-root makeStyles-title-10 MuiTypography-body1"
+              data-testid="imageTitle"
+            >
+              Todo
+            </p>
+          </div>
+        </div>
+        <p
+          className="MuiTypography-root makeStyles-mail-7 MuiTypography-body1"
+        />
+        <h5
+          className="MuiTypography-root makeStyles-heading-3 MuiTypography-h5"
+        >
+          Almost there
+        </h5>
+        <div
+          className="makeStyles-paper-4"
+        >
+          <form
+            className="form"
+          >
+            <div
+              className="MuiFormControl-root makeStyles-textField-20 MuiFormControl-fullWidth"
+            >
+              <p
+                className="MuiTypography-root makeStyles-label-19 MuiTypography-body1"
+                data-testid="usernameLabel"
+              >
+                Enter name
+              </p>
+              <div
+                className="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+              >
+                <div
+                  className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl"
+                  onClick={[Function]}
+                >
+                  <input
+                    aria-invalid={false}
+                    autoFocus={false}
+                    className="MuiInputBase-input MuiInput-input"
+                    data-testid="username"
+                    disabled={false}
+                    onAnimationStart={[Function]}
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    placeholder="Your name"
+                    required={true}
+                    type="text"
+                    value=""
+                  />
+                </div>
+              </div>
+            </div>
+            <div
+              className="MuiFormControl-root makeStyles-textField-22 MuiFormControl-fullWidth"
+            >
+              <p
+                className="MuiTypography-root makeStyles-label-21 MuiTypography-body1"
+                data-testid="passwordLabel"
+              >
+                Password
+              </p>
+              <div
+                className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl MuiInputBase-adornedEnd"
+                onClick={[Function]}
+                required={true}
+              >
+                <input
+                  aria-invalid={false}
+                  className="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedEnd"
+                  data-testid="password"
+                  disabled={false}
+                  onAnimationStart={[Function]}
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  onFocus={[Function]}
+                  placeholder="Enter Password"
+                  required={true}
+                  type="password"
+                  value=""
+                />
+                <button
+                  className="MuiButtonBase-root MuiIconButton-root"
+                  disabled={false}
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  style={
+                    Object {
+                      "padding": "0px",
+                    }
+                  }
+                  tabIndex={0}
+                  type="button"
+                >
+                  <span
+                    className="MuiIconButton-label"
+                  >
+                    <svg
+                      aria-hidden={true}
+                      className="MuiSvgIcon-root"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M12 7c2.76 0 5 2.24 5 5 0 .65-.13 1.26-.36 1.83l2.92 2.92c1.51-1.26 2.7-2.89 3.43-4.75-1.73-4.39-6-7.5-11-7.5-1.4 0-2.74.25-3.98.7l2.16 2.16C10.74 7.13 11.35 7 12 7zM2 4.27l2.28 2.28.46.46C3.08 8.3 1.78 10.02 1 12c1.73 4.39 6 7.5 11 7.5 1.55 0 3.03-.3 4.38-.84l.42.42L19.73 22 21 20.73 3.27 3 2 4.27zM7.53 9.8l1.55 1.55c-.05.21-.08.43-.08.65 0 1.66 1.34 3 3 3 .22 0 .44-.03.65-.08l1.55 1.55c-.67.33-1.41.53-2.2.53-2.76 0-5-2.24-5-5 0-.79.2-1.53.53-2.2zm4.31-.78l3.15 3.15.02-.16c0-1.66-1.34-3-3-3l-.17.01z"
+                      />
+                    </svg>
+                  </span>
+                </button>
+              </div>
+            </div>
+            <p
+              className="MuiTypography-root makeStyles-passwordheading-14 MuiTypography-body1"
+            >
+              Your password must be atleast 8 characters long.
+            </p>
+            <button
+              className="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-signupbutton-16 MuiButton-containedPrimary MuiButton-fullWidth"
+              disabled={false}
+              id="signupButton"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex={0}
+              type="button"
+            >
+              <span
+                className="MuiButton-label"
+              >
+                   
+                Sign up
+              </span>
+            </button>
+            <div>
+              <span
+                aria-disabled={false}
+                className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-23 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-checkbox-13 MuiIconButton-colorSecondary"
+                onBlur={[Function]}
+                onDragLeave={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                tabIndex={null}
+              >
+                <span
+                  className="MuiIconButton-label"
+                >
+                  <input
+                    className="PrivateSwitchBase-input-26"
+                    data-indeterminate={false}
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <svg
+                    aria-hidden={true}
+                    className="MuiSvgIcon-root"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+                    />
+                  </svg>
+                </span>
+              </span>
+              <h5
+                className="MuiTypography-root makeStyles-keepMeLoggedIn-18 MuiTypography-h5"
+              >
+                Keep me logged in
+                
+
+              </h5>
+            </div>
+            <br />
+            <br />
+            <div>
+              <span
+                aria-disabled={false}
+                className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-23 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-checkbox-13 PrivateSwitchBase-checked-24 Mui-checked MuiIconButton-colorSecondary"
+                onBlur={[Function]}
+                onDragLeave={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                tabIndex={null}
+              >
+                <span
+                  className="MuiIconButton-label"
+                >
+                  <input
+                    checked={true}
+                    className="PrivateSwitchBase-input-26"
+                    data-indeterminate={false}
+                    id="checkbox"
+                    onChange={[Function]}
+                    type="checkbox"
+                  />
+                  <svg
+                    aria-hidden={true}
+                    className="MuiSvgIcon-root"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+                    />
+                  </svg>
+                </span>
+              </span>
+              <h5
+                className="MuiTypography-root makeStyles-termsAndConditions-15 MuiTypography-h5"
+              >
+                Agree to our
+                 
+                <a
+                  data-testid="terms"
+                  href="/terms"
+                  onClick={[Function]}
+                >
+                  Terms of Service
+                </a>
+                 and 
+                <a
+                  data-testid="privacyPolicy"
+                  href="/privacypolicy"
+                  onClick={[Function]}
+                >
+                  Privacy Policy
+                </a>
+              </h5>
+            </div>
+            <p
+              className="MuiTypography-root makeStyles-loginLink-17 MuiTypography-body1"
+            >
+              Already signed up?
+              <a
+                data-testid="loginLink"
+                href="/login"
+                onClick={[Function]}
+              >
+                Go to login
+              </a>
+            </p>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+`;

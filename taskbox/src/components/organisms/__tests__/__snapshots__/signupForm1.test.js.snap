@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SignupForm1 component Matches the snapshot 1`] = `
+<form
+  className="makeStyles-form-1"
+>
+  <div
+    className="MuiFormControl-root makeStyles-textField-6 MuiFormControl-fullWidth"
+  >
+    <p
+      className="MuiTypography-root makeStyles-label-5 MuiTypography-body1"
+      data-testid="emailLabel"
+    >
+      Email
+    </p>
+    <div
+      className="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+    >
+      <div
+        className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl"
+        onClick={[Function]}
+      >
+        <input
+          aria-invalid={false}
+          autoFocus={false}
+          className="MuiInputBase-input MuiInput-input"
+          data-testid="email"
+          disabled={false}
+          onAnimationStart={[Function]}
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          placeholder="Enter email"
+          required={true}
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+  </div>
+  <div>
+    <button
+      className="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-signupbutton-2 MuiButton-containedPrimary MuiButton-fullWidth"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiButton-label"
+      >
+        Sign up with email
+      </span>
+    </button>
+  </div>
+  <hr
+    className="makeStyles-horizontalLine-4"
+  />
+  <p
+    className="MuiTypography-root makeStyles-loginLink-3 MuiTypography-body1"
+  >
+    Already signed up?
+    <a
+      data-testid="loginLink"
+      href="/login"
+      onClick={[Function]}
+    >
+      Go to login
+    </a>
+  </p>
+</form>
+`;

@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test AddTaskButton component Test click event on AddTask Button 1`] = `ShallowWrapper {}`;
+
+exports[`Test AddTaskButton component Test the button label 1`] = `ShallowWrapper {}`;

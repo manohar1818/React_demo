@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test ChipComponent 1`] = `ShallowWrapper {}`;
